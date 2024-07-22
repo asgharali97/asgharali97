@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asgharali97
+- 👋 Hi, I’m asgharali
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Wev dev projects
