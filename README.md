@@ -21,7 +21,7 @@ An event planning and management platform focused on organizing, scheduling, and
 <strong>
 <a href="https://github.com/asgharali97/Pollinkr/">Pollinkr</a>
 </strong>:
-Pollinkr is a full-stack poll creation and response collection platform built for a hackathon. It allows users to create polls, share public poll links, collect responses, view analytics, and publish final results.
+Pollinkr is a full-stack poll creation and response collection platform. It allows users to create polls, share public poll links, collect responses, view analytics, and publish final results.
 </p>
 
 <p>
