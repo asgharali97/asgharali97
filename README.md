@@ -9,12 +9,6 @@
 
 ### Projects
 
-<p>
-<strong>
-<a href="https://github.com/asgharali97/weather-Dashoboar">Weatherly</a>
-</strong>:
-A full-stack weather application providing real-time weather data, forecasts, historical trends, and air quality insights.
-</p>
 
 <p>
 <strong>
@@ -25,10 +19,18 @@ An event planning and management platform focused on organizing, scheduling, and
 
 <p>
 <strong>
+<a href="https://github.com/asgharali97/Pollinkr/">Pollinkr</a>
+</strong>:
+Pollinkr is a full-stack poll creation and response collection platform built for a hackathon. It allows users to create polls, share public poll links, collect responses, view analytics, and publish final results.
+</p>
+
+<p>
+<strong>
 <a href="https://github.com/asgharali97/Nexora">Nexora</a>
 </strong>:
 A real-time event tracking web application, currently under active development.
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asgharali97&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
