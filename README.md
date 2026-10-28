@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Asghar Ali</h1>
-<p align="center">Full Stack Web Developer</p>
+<p align="center">Full Stack Web Engineer</p>
 
 <p align="center">
   <a href="https://x.com/asgharaliffs" target="_blank">Twitter</a> ·
@@ -8,14 +8,6 @@
 </p>
 
 ### Projects
-
-
-<p>
-<strong>
-<a href="https://github.com/asgharali97/eventPlanning/">EventSphere</a>
-</strong>:
-An event planning and management platform focused on organizing, scheduling, and coordinating events efficiently.
-</p>
 
 <p>
 <strong>
